@@ -1,6 +1,6 @@
 # ≈‡—µº∆ªÆ (Training program)
 
-[Change to English](./)
+[Change to English](https://github.com/hiplot/training)
 
 
 
