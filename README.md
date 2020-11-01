@@ -1,4 +1,6 @@
 # Training program 
+[阅读中文](./README_zh.md)
+
 #### A few things to know
 
 [Hiplot](https://hiplot.com.cn) is a community-driven open source platform for scientific data visualization and data mining. The Hiplot platform is now maintained by the openbiox community, and [openbiox](https://github.com/openbiox) is a community-driven bioinformatics innovation collaboration group. 
