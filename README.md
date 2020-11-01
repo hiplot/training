@@ -1,13 +1,13 @@
 # Training program 
 [阅读中文](./README_zh.md)
 
-#### A few things to know
+## A few things to know
 
 [Hiplot](https://hiplot.com.cn) is a community-driven open source platform for scientific data visualization and data mining. The Hiplot platform is now maintained by the openbiox community, and [openbiox](https://github.com/openbiox) is a community-driven bioinformatics innovation collaboration group. 
 
 
 
-#### You are here because ...
+## You are here because ...
 
 - Want to learn bioinformatics and biostatistics skills
 - Want to learn how to do data mining correctly
@@ -18,7 +18,7 @@
 
 
 
-#### The training program contains ...
+## The training program contains ...
 
 A series of training lessons and scripts for data visualization/mining and Hiplot development.
 
@@ -29,6 +29,6 @@ A series of training lessons and scripts for data visualization/mining and Hiplo
 
 
 
->  Contact us if you want join Hiplot team: [admin@hiplot.org](mailto: admin@hiplot.org)
+>  Contact us if you want join Hiplot team: admin@hiplot.org
 
 >  Visit our website [here](https://hiplot.com.cn)
