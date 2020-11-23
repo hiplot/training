@@ -12,7 +12,17 @@
 
 测试数据，[点击此处](./www/demo.txt)
 
-演示视频，[点击此处]()
+演示视频，[点击此处](https://www.bilibili.com/video/BV1Ya411w79J/)
+
+参考教程[（1）](https://www.jianshu.com/p/5f1b0c914686)
+
+参考教程[（2）](https://shiny.rstudio.com/articles/validation.html)
+
+参考教程[（3）](https://shiny.rstudio.com/articles/datatables.html)
+
+
+
+扩展：[常见MIME文件列表](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types)
 
 
 
